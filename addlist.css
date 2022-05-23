@@ -1,0 +1,11 @@
+@media(max-width:600px){
+    .addlist-container{
+        top: 200px;
+        left:45px;
+    }
+    
+    .addlist{
+        width: 150%;
+    }
+}
+    
